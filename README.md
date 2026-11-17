@@ -1,8 +1,8 @@
-##⚡ Jarvis Widgets & Custom CSS Studio
+#⚡ Jarvis Widgets & Custom CSS Studio
 
 #Welcome to the documentation and guide for Jarvis Widgets—the modular, glassmorphic widget system built for the Jarvis HOME ambient display.
 
-#🧩 Built-in Widget Library
+# 🧩 Built-in Widget Library
 
 Jarvis HOME comes with 7 pre-configured ambient widgets that can be assigned to any of the 3 bottom dashboard slots:
 
